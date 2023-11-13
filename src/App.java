@@ -180,6 +180,6 @@ public class App {
                     System.out.println("Pilihan tidak valid. Silakan pilih lagi.");
             }
         }
-        scan.close();
+        scan.close(); // Moved the scanner closing statement outside the loop.
     }
 }
