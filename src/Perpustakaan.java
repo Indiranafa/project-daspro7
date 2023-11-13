@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class App {
+public class Perpustakaan {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
