@@ -1,8 +1,9 @@
 Nama Anggota:
 
-Indira Nafa Aurah Huda (2341720001)
-Luqman Ananta Abdul Hakim (2341720077)
-Ramadhani Bi Hayyin (2341720226)
+1. Indira Nafa Aurah Huda (2341720001)
+2. Luqman Ananta Abdul Hakim (2341720077)
+3. Ramadhani Bi Hayyin (2341720226)
+
 Sistem perpustakaan adalah suatu sistem yang dirancang untuk mengelola dan mengatur semua aspek yang terkait dengan pengelolaan perpustakaan, termasuk pengelolaan koleksi buku, peminjaman dan pengembalian buku, serta catatan dan pelaporan yang berkaitan dengan aktivitas perpustakaan.
 
 Definisi Projek sistem perpustakaan merujuk kepada usaha untuk merancang, mengembangkan, dan mengimplementasikan sistem yang membantu dalam pengelolaan perpustakaan. Sistem perpustakaan ini bertujuan untuk meningkatkan efisiensi dan efektivitas operasi perpustakaan serta menyediakan akses yang lebih baik kepada sumber daya informasi untuk pengguna perpustakaan.
