@@ -1,18 +1,12 @@
-## Getting Started
+Nama Anggota:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Indira Nafa Aurah Huda (2341720001)
+Luqman Ananta Abdul Hakim (2341720077)
+Ramadhani Bi Hayyin (2341720226)
+Sistem perpustakaan adalah suatu sistem yang dirancang untuk mengelola dan mengatur semua aspek yang terkait dengan pengelolaan perpustakaan, termasuk pengelolaan koleksi buku, peminjaman dan pengembalian buku, serta catatan dan pelaporan yang berkaitan dengan aktivitas perpustakaan.
 
-## Folder Structure
+Definisi Projek sistem perpustakaan merujuk kepada usaha untuk merancang, mengembangkan, dan mengimplementasikan sistem yang membantu dalam pengelolaan perpustakaan. Sistem perpustakaan ini bertujuan untuk meningkatkan efisiensi dan efektivitas operasi perpustakaan serta menyediakan akses yang lebih baik kepada sumber daya informasi untuk pengguna perpustakaan.
 
-The workspace contains two folders by default, where:
+Ada beberapa fitur yang terdapat dalam sistem ini yaitu registrasi, login, profil pengguna, peminjaman, pengembalian, riwayat peminjaman, stok buku, dan sebagaian.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Rencananya akan ada 2 pelaku dalam sistem ini yaitu administrator dan pengguna. Administrator perpustakaan dapat mengakses penuh ke sistem perpustakaan, dan admin bisa melakukan pengelolaan stok buku. Sedangkan pengguna umum dapat mencari buku dalam katalog, melihat informasi tentang buku yang ada, melalukan peminjaman dan pengembalian, dan update akun pribadi.
